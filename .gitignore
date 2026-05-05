@@ -1,0 +1,6 @@
+aws/
+awscliv2.zip
+*.zip
+__pycache__/
+.env
+node_modules/
