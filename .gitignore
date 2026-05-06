@@ -4,3 +4,9 @@ awscliv2.zip
 __pycache__/
 .env
 node_modules/
+minikube-linux-amd64
+kubectl
+terraform.zip
+terraform
+*.zip
+*.tar.gz
